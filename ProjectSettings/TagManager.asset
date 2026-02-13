@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - key
+  - ray
+  - avenger
+  - small_screw
+  - heat_shrinkable_tube
+  - antenna_bracket
+  - bottom_plate
+  - big_screw
+  - Gayka
+  - 045
+  - stand
+  - bracket_for_video_transmitter
+  - video_transmitter
+  - camera_bracket
+  - 085
+  - camera
+  - top_plate
+  - antenna
+  - propeller
+  - GRYZ
+  - 444
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cube1
+  - Water
+  - UI
+  - Cube2
+  - quadcopter
+  - wdwad
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
